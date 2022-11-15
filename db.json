@@ -8,25 +8,25 @@
     },
     {
       "idban": 21,
-      "img": "https://www.immoedenpark.com/wp-content/uploads/louer/location-maison-saint-julien.jpg",
+      "foto": "https://www.immoedenpark.com/wp-content/uploads/louer/location-maison-saint-julien.jpg",
       "titulo": "Los mejores precios del mercado",
       "descripcion": "Vivamus vestibulum maximus faucibus. Suspendisse accumsan velit et velit sagittis vulputate et vitae justo. Ut a mi sodales metus blandit egestas at sit amet urna."
     },
    {
       "idban": 31,
-      "img": "https://ctxcomex.com/wp/wp-content/uploads/slider01.jpg",
+      "foto": "https://ctxcomex.com/wp/wp-content/uploads/slider01.jpg",
       "titulo": "Atencion personalizada",
       "descripcion": "Donec eleifend massa sed leo auctor, eget blandit tellus ultricies. Nam ullamcorper nec est sed dictum. Vestibulum condimentum massa"
     },
     {
       "idban": 41,
-      "img": "https://blog.works.bg/wp-content/uploads/2020/01/5-razlichni-tipa-intervu-za-rabota.jpg",
+      "foto": "https://blog.works.bg/wp-content/uploads/2020/01/5-razlichni-tipa-intervu-za-rabota.jpg",
       "titulo": "Lo mejor para ti",
       "descripcion": "Morbi at erat suscipit tortor lacinia euismod. Sed fringilla velit sit amet mollis congue. Curabitur pharetra iaculis erat"
     },
     {
       "idban": 51,
-      "img": "https://www.cabotsquare.com/filemanager/images/shares/slides/portfolio/our-portfolio-4.jpg",
+      "foto": "https://www.cabotsquare.com/filemanager/images/shares/slides/portfolio/our-portfolio-4.jpg",
       "titulo": "Precios rebajados",
       "descripcion": "Proin ac lorem at est semper suscipit. Cras malesuada luctus odio non feugiat. In rhoncus semper tellus, a ullamcorper tellus egestas in."
     }
