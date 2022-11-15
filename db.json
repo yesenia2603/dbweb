@@ -1,0 +1,191 @@
+{
+  "banners": [
+    {
+      "idban": 11,
+      "foto": "http://www.shamrockenterprises.lk/uploads/8yF1wktTNgXMprjxktiv2s5vtXqV9620161123120412.jpg",
+      "titulo": "Salas de ultimo modelos",
+      "descripcion": "Aenean pellentesque est a tellus euismod dictum. Cras iaculis eleifend sapien, in faucibus odio eleifend eget."
+    },
+    {
+      "idban": 21,
+      "img": "https://www.immoedenpark.com/wp-content/uploads/louer/location-maison-saint-julien.jpg",
+      "titulo": "Los mejores precios del mercado",
+      "descripcion": "Vivamus vestibulum maximus faucibus. Suspendisse accumsan velit et velit sagittis vulputate et vitae justo. Ut a mi sodales metus blandit egestas at sit amet urna."
+    },
+   {
+      "idban": 31,
+      "img": "https://ctxcomex.com/wp/wp-content/uploads/slider01.jpg",
+      "titulo": "Atencion personalizada",
+      "descripcion": "Donec eleifend massa sed leo auctor, eget blandit tellus ultricies. Nam ullamcorper nec est sed dictum. Vestibulum condimentum massa"
+    },
+    {
+      "idban": 41,
+      "img": "https://blog.works.bg/wp-content/uploads/2020/01/5-razlichni-tipa-intervu-za-rabota.jpg",
+      "titulo": "Lo mejor para ti",
+      "descripcion": "Morbi at erat suscipit tortor lacinia euismod. Sed fringilla velit sit amet mollis congue. Curabitur pharetra iaculis erat"
+    },
+    {
+      "idban": 51,
+      "img": "https://www.cabotsquare.com/filemanager/images/shares/slides/portfolio/our-portfolio-4.jpg",
+      "titulo": "Precios rebajados",
+      "descripcion": "Proin ac lorem at est semper suscipit. Cras malesuada luctus odio non feugiat. In rhoncus semper tellus, a ullamcorper tellus egestas in."
+    }
+  ],
+  
+  "categoria": [
+    {
+      "idcate": 23,
+      "nombre": "Dormitorios",
+      "descripcion": "Muebles para dormitorios"
+    },
+    {
+      "idcate": 52,
+      "nombre": "Sala",
+      "descripcion": "Variedad de muebles para tu sala"
+    },
+    {
+      "idcate": 33,
+      "nombre": "Comedor",
+      "descripcion": "Lo mejor en mubles para tu comedor"
+    },
+    {
+      "idcate": 77,
+      "nombre": "Cocina",
+      "descripcion": "Encuentra la ultimo en menajes aqui"
+    }
+  ],
+  
+  "producto": [
+    {
+      "idcate": 23,
+      "idproducto": 130,
+      "nombre": "Cama 2 plazas",
+      "img": "https://chelyabinsk.parkav.ru/upload/resize_cache/iblock/765/270_192_1/TOV_B18_42a3c750_d3cf_4c56_84b8_e2c9af5a7914.jpg",
+      "precio": 1500
+    },
+    {
+      "idcate": 23,
+      "idproducto": 131,
+      "nombre": "Cajonera",
+      "img": "https://xn--r1ab7a.xn--90ais/upload/resize_cache/iblock/5ff/256_192_0/5ffeee0fe9d304b93af64063dc315efe.jpg",
+      "precio": 520
+    },
+    {
+      "idcate": 23,
+      "idproducto": 132,
+      "nombre": "Escritorio",
+      "img": "https://www.uplifers.com/app/uploads/2021/09/calisma-masasi-dekorasyonu-6-192x192.jpg",
+      "precio": 799
+    },
+     {
+      "idcate": 23,
+      "idproducto": 133,
+      "nombre": "Armario",
+      "img": "http://1.bp.blogspot.com/-rf121GWavas/TrVTV2NNZ2I/AAAAAAAAAtw/Sg01vNWmhw4/s1600/394721706_SDwavzo0_b.jpg",
+      "precio": 952
+    },
+    {
+      "idcate": 23,
+      "idproducto": 134,
+      "nombre": "Alfombra a cuadros",
+      "img": "https://www.xn----ctbbkxdyepe5j.xn--p1ai/wa-data/public/photos/09/00/9/9.192x192.jpeg",
+      "precio": 200
+    },
+    {
+      "idcate": 52,
+      "idproducto": 135,
+      "nombre": "Mueble para sala",
+      "img": "https://avatars.mds.yandex.net/get-dialogs/399212/417d067c1b68723384fe/orig",
+      "precio": 420
+    },
+    {
+      "idcate": 52,
+      "idproducto": 136,
+      "nombre": "Mesa para TV",
+      "img": "https://neufert-cdn.archdaily.net/uploads/photo/image/196864/cropped_portrait_Tinta_al_Aceite_04.jpg?v=1602271386",
+      "precio": 366
+    },
+    {
+      "idcate": 52,
+      "idproducto": 137,
+      "nombre": "Mesa de sala",
+      "img": "http://3.bp.blogspot.com/-olU7xY5w2yo/TeZvurqqJVI/AAAAAAAAAZg/U28pKdW0BR8/s1600/18920239_mypHt9Mp_b.jpg",
+      "precio": 201
+    },
+    {
+      "idcate": 52,
+      "idproducto": 138,
+      "nombre": "Silla",
+      "img": "https://parkav.ru/upload/resize_cache/iblock/3c8/270_192_1/51oKYq6M9zL.jpg",
+      "precio": 145
+    },
+    {
+      "idcate": 52,
+      "idproducto": 139,
+      "nombre": "Espejo para sala",
+      "img": "https://parkav.ru/upload/resize_cache/iblock/406/270_192_1/14604_3_.jpg",
+      "precio": 92
+    },
+    {
+      "idcate": 33,
+      "idproducto": 140,
+      "nombre": "Mesa de cocina",
+      "img": "https://s3.amazonaws.com/challonge_app/users/images/001/094/665/hdpi/images.png?1535019852",
+      "precio": 1800
+    },
+    {
+      "idcate": 33,
+      "idproducto": 141,
+      "nombre": "Juego de sillas",
+      "img": "https://i.pinimg.com/736x/91/4a/69/914a69b55c19fd1026782c24616391dc--rustic-dining-rooms-dining-room-design.jpg",
+      "precio": 214
+    },
+    {
+      "idcate": 33,
+      "idproducto": 142,
+      "nombre": "Planta aromatica",
+      "img": "https://pink-apple.ru/wa-data/public/shop/products/22/32/43222/images/59912/59912.96x96@2x.jpg",
+      "precio": 28
+    },
+    {
+      "idcate": 33,
+      "idproducto": 143,
+      "nombre": "Reloj para cocina",
+      "img": "https://freepngdownload.com/image/clock-png-free-download-42.png",
+      "precio": 30
+    },
+     {
+      "idcate": 77,
+      "idproducto": 144,
+      "nombre": "Licuadora",
+      "img": "https://i.pinimg.com/736x/96/e0/e4/96e0e4c761a5ed45b8fbe8e58575a944.jpg",
+      "precio": 322
+    },
+    {
+      "idcate": 77,
+      "idproducto": 145,
+      "nombre": "Platos",
+      "img": "https://freepngdownload.com/image/plate-png-free-download-12.png",
+      "precio": 75
+    },
+    {
+      "idcate": 77,
+      "idproducto": 146,
+      "nombre": "Olla arrocera",
+      "img": "https://a.allegroimg.com/s180/114e5c/f44f7cd64877b400e13778df2a81/Garnek-do-gotowania-ryzu-Tristar-RK-6129-ryzowar",
+      "precio": 395
+    },
+    {
+      "idcate": 77,
+      "idproducto": 147,
+      "nombre": "Jarra",
+      "img": "https://calorizator.ru/sites/default/files/imagecache/product_192/product/juice-26.jpg",
+      "precio": 75
+    }
+   
+  ],
+  
+  "profile": {
+    "name": "typicode"
+  }
+}
